@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ManejadorDeArchivos
+comment1.params=txt
+comment1.target=void\ escribirArchivo(java.lang.String)
+comment2.params=
+comment2.target=java.util.ArrayList\ leerArchivos()
+numComments=3

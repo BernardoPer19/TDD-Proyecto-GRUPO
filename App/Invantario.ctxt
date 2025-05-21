@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Invantario
+comment1.params=
+comment1.target=Invantario()
+comment2.params=
+comment2.target=void\ a\u00F1adirIngrediente()
+comment3.params=
+comment3.target=void\ eliminarIngrediente()
+comment4.params=
+comment4.target=java.util.ArrayList\ getIngredientes()
+numComments=5

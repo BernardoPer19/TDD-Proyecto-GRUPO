@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Recomendaciones
+comment1.params=listaIngredientes
+comment1.target=java.util.ArrayList\ recomendar(java.util.ArrayList)
+comment2.params=listaRecetas\ categoria
+comment2.target=java.util.ArrayList\ filtrarPorCategoria(java.util.ArrayList,\ java.lang.String)
+numComments=3
