@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public abstract class ManejadorAbstractoDeArchivos {
-    private String rutaArchivo;
+    protected String rutaArchivo;
 
     public void escribirArchivo(String txt) {}
 

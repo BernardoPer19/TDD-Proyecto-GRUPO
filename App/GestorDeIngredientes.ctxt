@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GestorDeIngredientes
+comment1.params=rutaArchivo
+comment1.target=GestorDeIngredientes(java.lang.String)
+comment2.params=ingrediente
+comment2.target=void\ guardar(Ingredientes)
+comment3.params=
+comment3.target=java.util.ArrayList\ cargarTodo()
+numComments=4

@@ -1,33 +1,21 @@
 
-/**
- * Write a description of class Ingrediente here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
-public class Ingredientes
-{
-    // instance variables - replace the example below with your own
-    private int x;
+public class Ingredientes{
+    private String name;
 
-    /**
-     * Constructor for objects of class Ingrediente
-     */
-    public Ingredientes()
-    {
-        // initialise instance variables
-        x = 0;
+    public Ingredientes(){
+        name = null;  
     }
 
-    /**
-     * An example of a method - replace this comment with your own
-     * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
+    public Ingredientes(String name){
+        this.name = name;  
     }
+
+    public String getNombre(){
+        return name;
+    }
+
+    public void setNombre(String name) {
+        this.name = name;
+    }
+
 }
